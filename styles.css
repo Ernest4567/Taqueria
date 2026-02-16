@@ -1,0 +1,33 @@
+/* Estilos personalizados Taquería Doña Mary */
+
+body {
+    background-color: #f8f9fa;
+}
+
+.titulo {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #b22222;
+    font-weight: bold;
+}
+
+.precio {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #198754;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+footer {
+    margin-top: 40px;
+}
+
+.img-menu {
+    width: 10%;
+    height: 450px;
+}
+
+
+
